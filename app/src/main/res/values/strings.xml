@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaterialDesignWithDB</string>
+    <string name="error_message_emil" />
+    <string name="error_message_email" />
+    <string name="error_valid_email_password" />
+    <string name="error_message_name" />
+    <string name="error_password_match" />
+    <string name="success_message" />
+    <string name="error_email_exits" />
+</resources>
